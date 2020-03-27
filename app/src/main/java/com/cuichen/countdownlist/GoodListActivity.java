@@ -21,6 +21,9 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 列表性能优化 RecyclerView + BaseRecyclerAdapter
+ */
 public class GoodListActivity extends AppCompatActivity {
 
     private RecyclerView rv;

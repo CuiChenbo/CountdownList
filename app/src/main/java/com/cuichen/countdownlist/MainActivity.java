@@ -17,6 +17,9 @@ import com.chad.library.adapter.base.viewholder.BaseViewHolder;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 默认单计时器刷新列表 RecyclerView + BaseRecyclerViewAdapterHelper
+ */
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView rv;
